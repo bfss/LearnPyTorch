@@ -2,7 +2,6 @@
 model/
 data/
 temp/
-nlp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
